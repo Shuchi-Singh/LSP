@@ -4,6 +4,14 @@ Lead Score Case Study
  
 The case study focusses on an educational company that wants to increase conversion rates by identifying only the hot leads rather than all leads. To do this, the company uses the logistic regression method to build a model that assigns a lead score of 0 to 100 to each lead, allowing it to target potential customers. A higher number indicates that the lead is hot and hence very likely to convert, while a lower score indicates that the lead is cool and unlikely to do so. You must also address some additional issues raised by the organisation, which your model should be able to adapt to in the event that the needs of the business change in the future.
 
+
+## Authors
+
+    Shuchi Singh
+    Shriya Chintawar
+    Manish Singh
+
+
 ## Pace
 
 1 Reading Data
@@ -18,3 +26,14 @@ The case study focusses on an educational company that wants to increase convers
 10 ROC Curve
 11 Prediction on test set
 
+
+
+
+
+## Documentation
+
+1) LSA Assignment Subjective Questions.pdf: Answers of all the questions asked by the company in the word document provided in pdf format.
+2) LSA PPT.pdf : Presentation file to present our analysis which includes both technical and business aspects. 
+3) LSA Python.ipynb : Python file with added comments.
+4) LSA Summary .pdf : Gist of project
+5) README.md 
