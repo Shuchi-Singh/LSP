@@ -8,8 +8,6 @@ The case study focusses on an educational company that wants to increase convers
 ## Authors
 
     Shuchi Singh
-    Shriya Chintawar
-    Manish Singh
 
 
 ## Pace
@@ -32,8 +30,7 @@ The case study focusses on an educational company that wants to increase convers
 
 ## Documentation
 
-1) LSA Assignment Subjective Questions.pdf: Answers of all the questions asked by the company in the word document provided in pdf format.
-2) LSA PPT.pdf : Presentation file to present our analysis which includes both technical and business aspects. 
-3) LSA Python.ipynb : Python file with added comments.
-4) LSA Summary .pdf : Gist of project
-5) README.md 
+1) LSA PPT.pdf : Presentation file to present our analysis which includes both technical and business aspects. 
+2) LSA Python.ipynb : Python file with added comments.
+3) LSA Summary .pdf : Gist of project
+4) README.md 
